@@ -40,10 +40,8 @@
   
   <ul>
     <li>Cada registro possui os seguintes dados: Nome, Telefone, Experiência Prévia (Sim ou não).</li>
-    
     <li>Validar o formulário para que todos os campos sejam preenchidos.</li>
-    
-    <li>Adicionar uma máscara no campo “Telefone”.</li>
+    <li>Adicionar uma máscara no campo "Telefone".</li>
   </ul>
 </ul>
 
