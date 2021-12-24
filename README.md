@@ -7,7 +7,7 @@
 
 <hr>
 
-<strong>Link do projeto do curso:</strong>
+<strong>Link do projeto do curso: <a href="https://edijunior88.github.io/NewTab_Academy_Projeto_Guiado/">https://edijunior88.github.io/NewTab_Academy_Projeto_Guiado/</a></strong>
 
 <hr>
 
@@ -45,8 +45,14 @@
   </ul>
 </ul>
 
-Listagem de todos os candidatos respeitando a ordem de cadastro.
-Incluir o botão “Alterar” para poder editar um registro cadastro.
-Marcar os candidatos com experiência prévia com verde e os sem experiência com vermelho.
-A aplicação deverá ser responsiva.
-Persistir as transações no Local Storage.
+<ul>
+  <li>Listagem de todos os candidatos respeitando a ordem de cadastro.</li>
+  
+  <ul>
+    <li>Incluir o botão “Alterar” para poder editar um registro cadastro.</li>
+    <li>Marcar os candidatos com experiência prévia com verde e os sem experiência com vermelho.</li>
+  </ul>
+
+  <li>A aplicação deverá ser responsiva.</li>
+  <li>Persistir as transações no Local Storage.</li>
+</ul>
