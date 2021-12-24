@@ -11,56 +11,44 @@
 
 <hr>
 
+<h3>Escopo do projeto guiado</h3>
 
-<h3>Módulos da etapa Front-end</h3>
+<p>A seguir, temos o escopo do projeto guiado que você irá desenvolver junto com nosso facilitador. Mas antes, você sabe o que é um escopo?</p>
 
-<p>
-  Na primeira parte da trilha você irá desenvolver os conhecimentos fundamentais que sustentam a atuação em Desenvolvimento Web com foco em Front-end.
-</p>
+<p>O escopo do projeto (ou de um produto) é o conjunto de características que descrevem o resultado final esperado. Ou seja, é a descrição de quais são as expectativas em relação ao desenvolvimento e é preciso entendê-lo bem para que a entrega fique de acordo com o que foi alinhado com o cliente e/ou responsável pelo projeto.</p>
 
-<ul>
-  <li>
-    <strong>Preparatório + Boas vindas ao mundo DEV:</strong> conteúdos básicos de nivelamento sobre arquitetura web, preparação do ambiente de desenvolvimento e Git, e criação do seu primeiro repositório.
-  </li>
-
-  <li>
-    <strong>Base de Web + Perfil comportamental e Soft Skills:</strong> você vai conhecer seu perfil comportamental, aprender um pouco sobre soft skills e começar a colocar a mão no código desenvolvendo um projeto com HTML e CSS.
-  </li>
-  
-  <li>
-   <strong>Linguagem Client Side + Construção do perfil profissional:</strong> você vai aprender como preparar um bom currículo, LinkedIn e GitHub, vai reforçar conhecimentos de algoritmo e lógica de programação e programar em JavaScript, finalizando seu primeiro projeto individual.
-  </li>
-  
-  <li>
-    <strong>Biblioteca JS + Preparação para processos seletivos:</strong> você também vai aprender React, uma das bibliotecas JS mais populares do mundo, além de se preparar para processos seletivos com apoio de uma psicóloga/recrutadora.
-  </li>
-  
-  <li>
-    <strong>Projeto Front-end em time:</strong> após praticar com projetos guiados e individuais, você vai se juntar a outras pessoas em formação para desenvolver um projeto ainda mais completo com tecnologias front-end, inclusive utilizando metodologias ágeis.
-  </li>
-</ul>
-
-<h3>Módulos da etapa Back-end</h3>
-
-<p>
-E nesses módulos você vai desenvolver alguns outros diferenciais para possíveis atuações em programação focadas em Back-end, ou complementando como Full Stack.
-</p>
-
-<ul>
-  <li>
-    <strong>Banco de dados + Busca por oportunidades:</strong> aprenda a construir um banco de dados MySQL e também passe a buscar vagas de acordo com as tecnologias que já aprendeu até aqui.
-  </li>
-  
-  <li>
-    <strong>Linguagem Server Side + Framework:</strong> desenvolva um projeto com a primeira linguagem server side, o PHP, e também aprenda Laravel para ter ainda mais opções de vagas para se candidatar.
-  </li>
-  
-  <li>
-    <strong>Projeto Back-end em time:</strong> e após passar por mais uma etapa desenvolvendo individualmente com acompanhamento dos nossos facilitadores, você vai utilizar as tecnologias anteriores para aplicar seu aprendizado em um projeto de equipe.
-  </li>
-</ul>
+<p>Abaixo você vai ler o escopo deste primeiro projeto guiado e depois vai programá-lo seguindo os vídeos do Fernando, então deve ficar mais fácil entender como funciona.</p>
 
 <hr>
 
-<h4><b>Curso:</b> :green_book: :books: 7 módulos + Projeto Final</h4>
-<h4><b>Status do Curso:</b> :speech_balloon: Estudando</h4>
+<h3>Sobre o projeto</h3>
+
+<p>O objetivo é criar uma aplicação que tenha as seguintes funcionalidades:</p>
+
+<ul>
+  <li>Duas páginas: cadastro e listagem.</li>
+  <li>Estrutura da página:</li>
+  
+  <ul>
+    <li>Topo com uma imagem da Newtab Academy</li>
+    <li>Menu superior com os dois links das páginas</li>
+  </ul>
+</ul>
+
+<ul>
+  <li>Cadastro de novos candidatos.</li>
+  
+  <ul>
+    <li>Cada registro possui os seguintes dados: Nome, Telefone, Experiência Prévia (Sim ou não).</li>
+    
+    <li>Validar o formulário para que todos os campos sejam preenchidos.</li>
+    
+    <li>Adicionar uma máscara no campo “Telefone”.</li>
+  </ul>
+</ul>
+
+Listagem de todos os candidatos respeitando a ordem de cadastro.
+Incluir o botão “Alterar” para poder editar um registro cadastro.
+Marcar os candidatos com experiência prévia com verde e os sem experiência com vermelho.
+A aplicação deverá ser responsiva.
+Persistir as transações no Local Storage.
