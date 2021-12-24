@@ -56,3 +56,7 @@
   <li>A aplicação deverá ser responsiva.</li>
   <li>Persistir as transações no Local Storage.</li>
 </ul>
+
+<hr>
+
+<strong>Observação:</strong> algumas partes são programadas com JavaScript (como por exemplo colocar máscara no campo de telefone e colorir as experiências dos candidatos) e por isso só serão feitas pelo facilitador no próximo módulo… neste o foco é apenas no HTML/CSS. Você pode fazer algumas personalizações caso queira, mas o importante é adquirir essa prática acompanhada agora, e no próximo projeto conseguir desenvolver um código 100% seu.
