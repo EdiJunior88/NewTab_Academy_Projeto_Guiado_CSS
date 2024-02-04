@@ -7,7 +7,13 @@
 
 <hr>
 
-<strong>Link do projeto do curso: <a href="https://edijunior88.github.io/NewTab_Academy_Projeto_Guiado/">https://edijunior88.github.io/NewTab_Academy_Projeto_Guiado/</a></strong>
+<strong>Link do projeto do curso: <a href="https://edijunior88.github.io/NewTab_Academy_Projeto_Guiado_CSS/" target="_blank">https://edijunior88.github.io/NewTab_Academy_Projeto_Guiado_CSS/</a></strong>
+
+<hr>
+
+<h3>Tecnologias Utilizadas</h3>
+
+Para ver todas as tecnologias [clique aqui](/techstack.md)
 
 <hr>
 
